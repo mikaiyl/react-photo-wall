@@ -2,7 +2,7 @@
     "name": "react-photo-wall",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://mikaiyl.github.io/github-cards/",
+    "homepage": "https://mikaiyl.github.io/react-photo-wall/",
     "dependencies": {
         "gh-pages": "^1.2.0",
         "react": "^16.4.0",
